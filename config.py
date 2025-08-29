@@ -5,8 +5,8 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "24196359")
-    API_HASH  = os.environ.get("API_HASH", "20a1b32381ed174799e8af8def3e176b")
+    API_ID    = os.environ.get("API_ID", "24353516")
+    API_HASH  = os.environ.get("API_HASH", "cd8b6f139668e7a50dde24451081ba41")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
    
     # database config
@@ -20,7 +20,7 @@ class Config(object):
 
     # channels logs
     FORCE_SUBS   = os.environ.get("FORCE_SUBS", "-1002469108204") 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002540478427"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002966982494"))
 
     # web response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", "True"))
@@ -47,7 +47,7 @@ Bot Is Made By : @RDX_PVT_LTD
 ╭───────────────⍟
 ├ 🤖 My Name : {}
 ├ 🖥️ Developer : <a href="https://t.me/RDX_PVT_LTD">RDX_PVT_LTD</a> 
-├ 👨‍💻 Programer : <a href="https://t.me/RDX1444">RDX</a>
+├ 👨‍💻 Owner : <a href="https://t.me/Captainsk96">RDX</a>
 ├ 📕 Library : <a href="https://github.com/pyrogram">Pyrogram</a>
 ├ ✏️ Language : <a href="https://www.python.org">Python 3</a>
 ├ 💾 Database : <a href="https://cloud.mongodb.com">Mongo DB</a>
@@ -100,7 +100,7 @@ Bot Is Made By : @RDX_PVT_LTD
 🔧 <b><u>Need Help?</u></b>
 
 𝗔𝗻𝘆 𝗼𝘁𝗵𝗲𝗿 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗼𝗿 𝗵𝗲𝗹𝗽:
-<a href="https://t.me/RDX1444">Contact Developer</a>
+<a href="https://t.me/Captainsk96">Contact Developer</a>
 """
 
     PROGRESS_BAR = """\n
@@ -115,7 +115,7 @@ Bot Is Made By : @RDX_PVT_LTD
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 Message:</b> `@RDX1444`
+<b>🛍 Message:</b> `@Captainsk96`
 """
 
 
