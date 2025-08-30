@@ -47,7 +47,7 @@ Bot Is Made By : @RDX_PVT_LTD
 ╭───────────────⍟
 ├ 🤖 My Name : {}
 ├ 🖥️ Developer : <a href="https://t.me/RDX_PVT_LTD">RDX_PVT_LTD</a> 
-├ 👨‍💻 Owner : <a href="https://t.me/Captainsk96">RDX</a>
+├ 👨‍💻 Owner : <a href="https://t.me/Captainsk96">𝐂𝐚𝐩𝐭𝐚𝐢𝐧</a>
 ├ 📕 Library : <a href="https://github.com/pyrogram">Pyrogram</a>
 ├ ✏️ Language : <a href="https://www.python.org">Python 3</a>
 ├ 💾 Database : <a href="https://cloud.mongodb.com">Mongo DB</a>
